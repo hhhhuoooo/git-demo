@@ -1,4 +1,5 @@
 hello huogen! hello git!
 hello huogen! hello git!
 hello huogen! hello git!master
-hello huogen! hello git!
+hello huogen! hello git! hot-fix test
+
